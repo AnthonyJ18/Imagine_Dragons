@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.blogdelfotografo.com/wp-content/uploads/2021/12/Fondo_Negro_3.webp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+  }
+  .titulo {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 30px; 
+    color: red; 
+  }

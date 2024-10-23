@@ -1,0 +1,12 @@
+.image-container {
+    display: flex;
+    justify-content: center;  /* Centra horizontalmente */
+    align-items: center;      /* Centra verticalmente */
+    height: 60vh;            /* Ocupa toda la altura de la ventana */
+}
+
+/* Opcional: Ajustar el tamaño de la imagen */
+img {
+    max-width: 100%;          /* Evita que la imagen se salga del contenedor */
+    height: auto;             /* Mantiene las proporciones */
+}

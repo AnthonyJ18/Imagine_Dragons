@@ -1,0 +1,16 @@
+#songCarousel {
+    max-width: 1400px; /* Ajusta el ancho según tus necesidades */
+    margin: 0 auto; /* Centra el carrusel */
+}
+
+/* Aumentar el tamaño de las imágenes y botones */
+.carousel-item img {
+    width: 600px; /* Aumentar el tamaño de la imagen */
+    height: 400px; /* Aumentar el tamaño de la imagen */
+    margin-right: 30px;
+}
+
+.carousel-item button {
+    font-size: 1.5rem; /* Aumentar el tamaño del texto del botón */
+    padding: 10px 20px; /* Ajustar el tamaño del botón */
+}
